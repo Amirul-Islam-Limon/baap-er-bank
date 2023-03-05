@@ -6,7 +6,7 @@ document.getElementById("btn-submit").addEventListener("click",function(){
     
     if(email != "" && password != ""){
         console.log("Valid User!!");
-        window.location.href = 'http://127.0.0.1:5500/bank.html';
+        window.location.href = 'https://amirul-islam-limon.github.io/baap-er-bank/bank.html';
     }
     else{
         alert("Go to in Your father Bank, What are you doing here now?")
